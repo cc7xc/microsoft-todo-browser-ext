@@ -19,10 +19,10 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">GitHub</a>
+        <a id="home-btn-github" href="{{ site.github.repository_url }}" class="btn">GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ site.downloads.chrome_url }}" class="btn">下载 Chrome 扩展</a>
+        <a id="home-download-chrome" href="{{ site.downloads.chrome_url }}" class="btn">下载 Chrome 扩展</a>
         <!-- <a href="{{ site.downloads.firefox_url }}" class="btn">下载 Firefox 扩展</a> -->
       {% endif %}
     </header>
