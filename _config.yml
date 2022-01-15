@@ -1,10 +1,11 @@
 theme: jekyll-theme-cayman
 
 title: Microsoft To Do 浏览器扩展
-description: 开源免费的 Microsoft To Do 浏览器扩展，让你从工作到娱乐都保持专注。
+description: 开源、免费的 Microsoft To Do 浏览器扩展，让你从工作到娱乐都保持专注。
 
 google_tag_manager: GTM-PL7TSTQ
 
 show_downloads: true
 downloads:
-  chrome_url: https://baidu.com
+  chrome_store_url: https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/ffpljgmbiankjaokoefefmkoghcgoodn
+  chrome_url_cn: https://download-1256190988.cos.ap-guangzhou.myqcloud.com/microsoft-to-do-browser-extension/ffpljgmbiankjaokoefefmkoghcgoodn_latest.crx
