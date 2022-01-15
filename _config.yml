@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
 
+lang: zh-cn
 title: Microsoft To Do 浏览器扩展
 description: 开源、免费的 Microsoft To Do 浏览器扩展，让你从工作到娱乐都保持专注。
+author: waynegong
 
 google_tag_manager: GTM-PL7TSTQ
 

@@ -18,12 +18,9 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a id="home-btn-github" href="{{ site.github.repository_url }}" class="btn">GitHub</a>
-      {% endif %}
       {% if site.show_downloads %}
-        <a id="home-download-chrome-store" href="{{ site.downloads.chrome_store_url }}" class="btn">安装 Chrome 扩展(Google Store)</a>
-        <a id="home-download-chrome-cn" href="{{ site.downloads.chrome_url_cn }}" class="btn">下载 Chrome 扩展(国内)</a>
+        <a id="home-download-chrome-store" href="{{ site.downloads.chrome_store_url }}" class="btn">从谷歌商店安装</a>
+        <a id="home-download-chrome-cn" href="{{ site.downloads.chrome_url_cn }}" class="btn">下载扩展文件安装(国内)</a>
         <!-- <a href="{{ site.downloads.firefox_url }}" class="btn">下载 Firefox 扩展</a> -->
       {% endif %}
     </header>
