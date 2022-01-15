@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+title: Microsoft To Do browser extension
+description: Microsoft To Do browser extension
+
+show_downloads: true
+google_analytics: UA-121105508-3
+
+downloads:
+  chrome_url: https://baidu.com
