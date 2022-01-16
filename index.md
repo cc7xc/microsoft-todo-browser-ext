@@ -10,7 +10,7 @@ layout: default
 <a href="https://github.com/WayneGongCN/microsoft-todo-browser-ext/issues" target="_blank">![](https://img.shields.io/github/issues/waynegongcn/microsoft-todo-browser-ext?style=social)</a>
 
 
-![Microsofot To Do browser extension chinese](https://user-images.githubusercontent.com/20236883/149647142-6b444d81-50d5-49ba-acb2-bda88b5d018c.gif)
+![简介_CN](https://user-images.githubusercontent.com/20236883/149657690-5fc260d6-6e7b-4690-86c2-33b2b79505f5.gif)
 
 
 # 国内用户安装方式
