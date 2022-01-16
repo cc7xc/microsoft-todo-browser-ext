@@ -21,3 +21,6 @@ layout: default
 4. 将下载好的扩展安装文件拖入页面完成安装；
 
 
+# 支持作者
+
+<a href="https://www.buymeacoffee.com/waynegong"><img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&slug=waynegong&button_colour=0078d4&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=ffffff"></a>
