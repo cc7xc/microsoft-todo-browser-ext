@@ -2,13 +2,15 @@
 layout: default
 ---
 
-[![Octocat](https://img.shields.io/chrome-web-store/v/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID})
-[![Octocat](https://img.shields.io/chrome-web-store/users/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID})
-[![Octocat](https://img.shields.io/chrome-web-store/stars/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID}/reviews)
-[![Octocat](https://img.shields.io/github/stars/waynegongcn/microsoft-todo-browser-ext?style=social)](https://github.com/WayneGongCN/microsoft-todo-browser-ext)
-[![Octocat](https://img.shields.io/github/issues/waynegongcn/microsoft-todo-browser-ext?style=social)](https://github.com/WayneGongCN/microsoft-todo-browser-ext/issues)
+[![chrome store version](https://img.shields.io/chrome-web-store/v/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID})
+[![chrome store users](https://img.shields.io/chrome-web-store/users/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID})
+[![chrome store stars](https://img.shields.io/chrome-web-store/stars/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID}/reviews)
+[![github stars](https://img.shields.io/github/stars/waynegongcn/microsoft-todo-browser-ext?style=social)](https://github.com/WayneGongCN/microsoft-todo-browser-ext)
+[![github issues](https://img.shields.io/github/issues/waynegongcn/microsoft-todo-browser-ext?style=social)](https://github.com/WayneGongCN/microsoft-todo-browser-ext/issues)
 
-[video](https://user-images.githubusercontent.com/20236883/149647081-674be824-2e6c-4d0c-8340-c056b38d032c.mp4)
+
+![Microsofot To Do browser extension chinese](https://user-images.githubusercontent.com/20236883/149647142-6b444d81-50d5-49ba-acb2-bda88b5d018c.gif)
+
 
 # 国内用户安装方式
 
