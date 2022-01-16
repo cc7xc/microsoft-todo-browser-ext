@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[![chrome store version](https://img.shields.io/chrome-web-store/v/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID})
-[![chrome store users](https://img.shields.io/chrome-web-store/users/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID})
-[![chrome store stars](https://img.shields.io/chrome-web-store/stars/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/${EXT_ID}/reviews)
+[![chrome store version](https://img.shields.io/chrome-web-store/v/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/ffpljgmbiankjaokoefefmkoghcgoodn)
+[![chrome store users](https://img.shields.io/chrome-web-store/users/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/ffpljgmbiankjaokoefefmkoghcgoodn)
+[![chrome store stars](https://img.shields.io/chrome-web-store/stars/ffpljgmbiankjaokoefefmkoghcgoodn?style=social)](https://chrome.google.com/webstore/detail/microsoft-to-do-browser-e/ffpljgmbiankjaokoefefmkoghcgoodn/reviews)
 [![github stars](https://img.shields.io/github/stars/waynegongcn/microsoft-todo-browser-ext?style=social)](https://github.com/WayneGongCN/microsoft-todo-browser-ext)
 [![github issues](https://img.shields.io/github/issues/waynegongcn/microsoft-todo-browser-ext?style=social)](https://github.com/WayneGongCN/microsoft-todo-browser-ext/issues)
 
